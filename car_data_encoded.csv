@@ -1,0 +1,5 @@
+buying,buying_encoded,maint,maint_encoded,doors,doors_encoded,persons,persons_encoded,lug_boot,lug_boot_encoded,safety,safety_encoded,class_type,class_type_encoded
+vhigh,1,vhigh,1,2,1,2,1,small,1,low,1,unacc,1
+high,2,high,2,3,2,4,2,med,2,med,2,acc,2
+med,3,med,3,4,3,more,3,big,3,high,3,vgood,3
+low,4,low,4,5more,4,,,,,,,good,4
